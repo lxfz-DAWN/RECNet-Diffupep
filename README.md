@@ -1,0 +1,2 @@
+# RECNet-Diffupep
+AI-peptide
