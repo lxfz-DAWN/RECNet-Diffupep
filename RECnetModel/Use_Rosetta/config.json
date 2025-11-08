@@ -1,0 +1,15 @@
+{
+    "workspace": "/home/users/hcdai/AI-peptide/RunRosetta",
+    "rosetta": {
+        "score_executable": "/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease",
+        "InterfaceAnalyzer": "/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease",
+        "pack_input_options": "/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini"
+    },
+    "temp": "/home/users/hcdai/AI-peptide/RunRosetta/temp",
+    "output": "/home/users/hcdai/AI-peptide/RunRosetta/output",
+    "input": "/home/users/hcdai/AI-peptide/RunRosetta/input",
+    "output_csv": "/home/users/hcdai/AI-peptide/RunRosetta/output_result.csv",
+    "pdb_index": "/home/users/hcdai/AI-peptide/RunRosetta/pdb_index.csv",
+    "error_pdb": "/home/users/hcdai/AI-peptide/RunRosetta/error_pdb.txt", 
+    "ligand_receptor_data": "/home/users/hcdai/AI-peptide/RunRosetta/data/GNN_cleaned_data.csv"
+}
