@@ -1,0 +1,144 @@
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.09+release.06b3cf8ad0
+[COMMIT_DATE]: 2024-02-29T01:16:28.135490
+[APPLICATION]: /home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease
+[MODE]: Release
+[EXTRAS]: default
+[OS]: GNU/Linux
+[COMPILER]: GCC version "7.5.0"
+[STDLIB]: libstdc++ version 20191114
+[START_OPTIONS]
+ -in:ignore_unrecognized_res -in:file:s=/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/pdb/*.pdb -out:path=/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/rosetta/ -packing:no_optH=false
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+[0x81d7316]
+[0x813b8ff]
+[0x81de77f]
+[0x81de536]
+[0x51f2bff]
+[0x51f7995]
+[0x51f7aad]
+[0x5100d0b]
+[0x50bbe91]
+[0x50be0e6]
+[0x518f546]
+[0x41182b]
+[0x8a79019]
+[0x6b47ea]
+
+[END_BACKTRACE]
+
+[FILE]: src/core/import_pose/import_pose.cc
+[LINE]: 361
+[START_MESSAGE]
+[ ERROR ] UtilityExitException
+ERROR: Cannot open file "/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/pdb/*.pdb"
+
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.09+release.06b3cf8ad0
+[COMMIT_DATE]: 2024-02-29T01:16:28.135490
+[APPLICATION]: UNKNOWN APPLICATION
+[MODE]: Release
+[EXTRAS]: default
+[OS]: GNU/Linux
+[COMPILER]: GCC version "7.5.0"
+[STDLIB]: libstdc++ version 20191114
+[START_OPTIONS]
+NO OPTIONS SPECIFIED
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+[0x81d7316]
+[0x813b8ff]
+[0x80c708d]
+[0x80c78b3]
+[0x80cc0a8]
+[0x80cca8a]
+[0x52d0739]
+[0x411272]
+[0x8a79019]
+[0x6b47ea]
+
+[END_BACKTRACE]
+
+[FILE]: src/utility/options/OptionCollection.cc
+[LINE]: 1467
+[START_MESSAGE]
+Option matching -out:pdb:path not found in command line top-level context
+Did you mean:
+	 -cloud:auth
+	 -in:path
+	 -inout:dbms:path
+	 -lh:db_path
+	 -match
+	 -mh:match
+	 -mh:path
+	 -out:path
+	 -pH
+	 -rigid:patch
+	 -score:patch
+
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+
+##############################################################################################################
+#
+# Rosetta crash log. Please submit the contents of this file to http://crash.rosettacommons.org/
+# or use the script Rosetta/main/source/scripts/python/public/report_crashes.py
+#
+
+[START_CRASH_REPORT]
+[ROSETTA_VERSION]: 2024.09+release.06b3cf8ad0
+[COMMIT_DATE]: 2024-02-29T01:16:28.135490
+[APPLICATION]: UNKNOWN APPLICATION
+[MODE]: Release
+[EXTRAS]: default
+[OS]: GNU/Linux
+[COMPILER]: GCC version "7.5.0"
+[STDLIB]: libstdc++ version 20191114
+[START_OPTIONS]
+NO OPTIONS SPECIFIED
+
+[END_OPTIONS]
+
+[START_BACKTRACE]: RAW_LIBC
+[0x81d7316]
+[0x813b8ff]
+[0x80cc491]
+[0x80cca8a]
+[0x52d0739]
+[0x411272]
+[0x8a79019]
+[0x6b47ea]
+
+[END_BACKTRACE]
+
+[FILE]: src/utility/options/OptionCollection.cc
+[LINE]: 347
+[START_MESSAGE]
+ERROR: Unused "free" argument specified: /home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/rosetta
+
+[END_MESSAGE]
+[END_CRASH_REPORT]
+

@@ -1,0 +1,250 @@
+2024-12-02 08:02:52,554 - root - INFO - ChaiRosettaScore started.
+2024-12-02 08:02:52,570 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 08:02:52,571 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 08:02:52,661 - root - INFO - clean up failed.
+2024-12-02 08:02:52,662 - root - INFO - Processing EK1...
+2024-12-02 08:02:52,663 - root - INFO - Finished processing EK1.
+2024-12-02 08:02:52,663 - root - INFO - clean up failed.
+2024-12-02 08:02:52,665 - root - INFO - Processing V1176Y...
+2024-12-02 08:02:52,665 - root - INFO - Finished processing V1176Y.
+2024-12-02 08:02:52,665 - root - INFO - clean up failed.
+2024-12-02 08:02:52,665 - root - INFO - Processing V1177L...
+2024-12-02 08:02:52,666 - root - INFO - Finished processing V1177L.
+2024-12-02 08:02:52,666 - root - INFO - clean up failed.
+2024-12-02 08:02:52,666 - root - INFO - Processing N1178E...
+2024-12-02 08:02:52,666 - root - INFO - Finished processing N1178E.
+2024-12-02 08:02:52,667 - root - INFO - clean up failed.
+2024-12-02 08:02:52,667 - root - INFO - Processing Q1180K...
+2024-12-02 08:02:52,667 - root - INFO - Finished processing Q1180K.
+2024-12-02 08:02:52,667 - root - INFO - clean up failed.
+2024-12-02 08:02:52,668 - root - INFO - Processing K1181E...
+2024-12-02 08:02:52,668 - root - INFO - Finished processing K1181E.
+2024-12-02 08:02:52,668 - root - INFO - clean up failed.
+2024-12-02 08:02:52,668 - root - INFO - Processing L1186F...
+2024-12-02 08:02:52,669 - root - INFO - Finished processing L1186F.
+2024-12-02 08:02:52,669 - root - INFO - clean up failed.
+2024-12-02 08:02:52,669 - root - INFO - Processing N1187Y...
+2024-12-02 08:02:52,669 - root - INFO - Finished processing N1187Y.
+2024-12-02 08:02:52,669 - root - INFO - clean up failed.
+2024-12-02 08:02:52,670 - root - INFO - Processing A1190V...
+2024-12-02 08:02:52,670 - root - INFO - Finished processing A1190V.
+2024-12-02 08:02:52,670 - root - INFO - clean up failed.
+2024-12-02 08:02:52,670 - root - INFO - Processing N1192E...
+2024-12-02 08:02:52,671 - root - INFO - Finished processing N1192E.
+2024-12-02 08:02:52,671 - root - INFO - clean up failed.
+2024-12-02 08:02:52,671 - root - INFO - Processing L1193F...
+2024-12-02 08:02:52,671 - root - INFO - Finished processing L1193F.
+2024-12-02 08:02:52,671 - root - INFO - clean up failed.
+2024-12-02 08:02:52,672 - root - INFO - Processing L1197Y...
+2024-12-02 08:02:52,672 - root - INFO - Finished processing L1197Y.
+2024-12-02 08:02:52,672 - root - INFO - clean up failed.
+2024-12-02 08:02:52,672 - root - INFO - Processing 11198F...
+2024-12-02 08:02:52,673 - root - INFO - Finished processing 11198F.
+2024-12-02 08:02:52,673 - root - INFO - clean up failed.
+2024-12-02 08:02:52,673 - root - INFO - Processing L1200F...
+2024-12-02 08:02:52,673 - root - INFO - Finished processing L1200F.
+2024-12-02 08:02:52,674 - root - INFO - clean up failed.
+2024-12-02 08:02:52,674 - root - INFO - Processing Q1201K...
+2024-12-02 08:02:52,674 - root - INFO - Finished processing Q1201K.
+2024-12-02 08:02:52,674 - root - INFO - clean up failed.
+2024-12-02 08:02:52,674 - root - INFO - Processing Elongation...
+2024-12-02 08:02:52,675 - root - INFO - Finished processing Elongation.
+2024-12-02 08:02:52,675 - root - INFO - clean up failed.
+2024-12-02 08:02:52,675 - root - INFO - Processing Combination...
+2024-12-02 08:02:52,675 - root - INFO - Finished processing Combination.
+2024-12-02 08:02:52,675 - root - INFO - clean up failed.
+2024-12-02 08:02:52,676 - root - INFO - Finished processing all ligands.
+2024-12-02 08:04:52,673 - root - INFO - ChaiRosettaScore started.
+2024-12-02 08:04:52,674 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 08:04:52,675 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 08:04:52,679 - root - INFO - clean up failed.
+2024-12-02 08:04:52,680 - root - INFO - Processing EK1...
+2024-12-02 08:04:52,680 - root - INFO - Finished processing EK1.
+2024-12-02 08:04:52,681 - root - INFO - clean up failed.
+2024-12-02 08:04:52,682 - root - INFO - Processing V1176Y...
+2024-12-02 08:04:52,682 - root - INFO - Finished processing V1176Y.
+2024-12-02 08:04:52,682 - root - INFO - clean up failed.
+2024-12-02 08:04:52,682 - root - INFO - Processing V1177L...
+2024-12-02 08:04:52,683 - root - INFO - Finished processing V1177L.
+2024-12-02 08:04:52,683 - root - INFO - clean up failed.
+2024-12-02 08:04:52,683 - root - INFO - Processing N1178E...
+2024-12-02 08:04:52,683 - root - INFO - Finished processing N1178E.
+2024-12-02 08:04:52,684 - root - INFO - clean up failed.
+2024-12-02 08:04:52,684 - root - INFO - Processing Q1180K...
+2024-12-02 08:04:52,684 - root - INFO - Finished processing Q1180K.
+2024-12-02 08:04:52,684 - root - INFO - clean up failed.
+2024-12-02 08:04:52,684 - root - INFO - Processing K1181E...
+2024-12-02 08:04:52,685 - root - INFO - Finished processing K1181E.
+2024-12-02 08:04:52,685 - root - INFO - clean up failed.
+2024-12-02 08:04:52,685 - root - INFO - Processing L1186F...
+2024-12-02 08:04:52,685 - root - INFO - Finished processing L1186F.
+2024-12-02 08:04:52,686 - root - INFO - clean up failed.
+2024-12-02 08:04:52,686 - root - INFO - Processing N1187Y...
+2024-12-02 08:04:52,686 - root - INFO - Finished processing N1187Y.
+2024-12-02 08:04:52,686 - root - INFO - clean up failed.
+2024-12-02 08:04:52,686 - root - INFO - Processing A1190V...
+2024-12-02 08:04:52,687 - root - INFO - Finished processing A1190V.
+2024-12-02 08:04:52,687 - root - INFO - clean up failed.
+2024-12-02 08:04:52,687 - root - INFO - Processing N1192E...
+2024-12-02 08:04:52,687 - root - INFO - Finished processing N1192E.
+2024-12-02 08:04:52,688 - root - INFO - clean up failed.
+2024-12-02 08:04:52,688 - root - INFO - Processing L1193F...
+2024-12-02 08:04:52,688 - root - INFO - Finished processing L1193F.
+2024-12-02 08:04:52,688 - root - INFO - clean up failed.
+2024-12-02 08:04:52,688 - root - INFO - Processing L1197Y...
+2024-12-02 08:04:52,689 - root - INFO - Finished processing L1197Y.
+2024-12-02 08:04:52,689 - root - INFO - clean up failed.
+2024-12-02 08:04:52,689 - root - INFO - Processing 11198F...
+2024-12-02 08:04:52,689 - root - INFO - Finished processing 11198F.
+2024-12-02 08:04:52,689 - root - INFO - clean up failed.
+2024-12-02 08:04:52,690 - root - INFO - Processing L1200F...
+2024-12-02 08:04:52,690 - root - INFO - Finished processing L1200F.
+2024-12-02 08:04:52,690 - root - INFO - clean up failed.
+2024-12-02 08:04:52,690 - root - INFO - Processing Q1201K...
+2024-12-02 08:04:52,690 - root - INFO - Finished processing Q1201K.
+2024-12-02 08:04:52,691 - root - INFO - clean up failed.
+2024-12-02 08:04:52,691 - root - INFO - Processing Elongation...
+2024-12-02 08:04:52,691 - root - INFO - Finished processing Elongation.
+2024-12-02 08:04:52,691 - root - INFO - clean up failed.
+2024-12-02 08:04:52,691 - root - INFO - Processing Combination...
+2024-12-02 08:04:52,692 - root - INFO - Finished processing Combination.
+2024-12-02 08:04:52,692 - root - INFO - clean up failed.
+2024-12-02 08:04:52,692 - root - INFO - Finished processing all ligands.
+2024-12-02 08:05:31,162 - root - INFO - ChaiRosettaScore started.
+2024-12-02 08:05:31,163 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 08:05:31,163 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 08:05:31,167 - root - INFO - clean up failed.
+2024-12-02 08:05:31,168 - root - INFO - Processing EK1...
+2024-12-02 08:05:31,169 - root - INFO - Finished processing EK1.
+2024-12-02 08:05:31,169 - root - INFO - clean up failed.
+2024-12-02 08:05:31,170 - root - INFO - Processing V1176Y...
+2024-12-02 08:05:31,170 - root - INFO - Finished processing V1176Y.
+2024-12-02 08:05:31,170 - root - INFO - clean up failed.
+2024-12-02 08:05:31,171 - root - INFO - Processing V1177L...
+2024-12-02 08:05:31,171 - root - INFO - Finished processing V1177L.
+2024-12-02 08:05:31,171 - root - INFO - clean up failed.
+2024-12-02 08:05:31,171 - root - INFO - Processing N1178E...
+2024-12-02 08:05:31,172 - root - INFO - Finished processing N1178E.
+2024-12-02 08:05:31,172 - root - INFO - clean up failed.
+2024-12-02 08:05:31,172 - root - INFO - Processing Q1180K...
+2024-12-02 08:05:31,172 - root - INFO - Finished processing Q1180K.
+2024-12-02 08:05:31,172 - root - INFO - clean up failed.
+2024-12-02 08:05:31,173 - root - INFO - Processing K1181E...
+2024-12-02 08:05:31,173 - root - INFO - Finished processing K1181E.
+2024-12-02 08:05:31,173 - root - INFO - clean up failed.
+2024-12-02 08:05:31,173 - root - INFO - Processing L1186F...
+2024-12-02 08:05:31,174 - root - INFO - Finished processing L1186F.
+2024-12-02 08:05:31,174 - root - INFO - clean up failed.
+2024-12-02 08:05:31,174 - root - INFO - Processing N1187Y...
+2024-12-02 08:05:31,174 - root - INFO - Finished processing N1187Y.
+2024-12-02 08:05:31,174 - root - INFO - clean up failed.
+2024-12-02 08:05:31,175 - root - INFO - Processing A1190V...
+2024-12-02 08:05:31,175 - root - INFO - Finished processing A1190V.
+2024-12-02 08:05:31,175 - root - INFO - clean up failed.
+2024-12-02 08:05:31,175 - root - INFO - Processing N1192E...
+2024-12-02 08:05:31,175 - root - INFO - Finished processing N1192E.
+2024-12-02 08:05:31,176 - root - INFO - clean up failed.
+2024-12-02 08:05:31,176 - root - INFO - Processing L1193F...
+2024-12-02 08:05:31,176 - root - INFO - Finished processing L1193F.
+2024-12-02 08:05:31,176 - root - INFO - clean up failed.
+2024-12-02 08:05:31,176 - root - INFO - Processing L1197Y...
+2024-12-02 08:05:31,177 - root - INFO - Finished processing L1197Y.
+2024-12-02 08:05:31,177 - root - INFO - clean up failed.
+2024-12-02 08:05:31,177 - root - INFO - Processing 11198F...
+2024-12-02 08:05:31,177 - root - INFO - Finished processing 11198F.
+2024-12-02 08:05:31,178 - root - INFO - clean up failed.
+2024-12-02 08:05:31,178 - root - INFO - Processing L1200F...
+2024-12-02 08:05:31,178 - root - INFO - Finished processing L1200F.
+2024-12-02 08:05:31,178 - root - INFO - clean up failed.
+2024-12-02 08:05:31,178 - root - INFO - Processing Q1201K...
+2024-12-02 08:05:31,179 - root - INFO - Finished processing Q1201K.
+2024-12-02 08:05:31,179 - root - INFO - clean up failed.
+2024-12-02 08:05:31,179 - root - INFO - Processing Elongation...
+2024-12-02 08:05:31,179 - root - INFO - Finished processing Elongation.
+2024-12-02 08:05:31,179 - root - INFO - clean up failed.
+2024-12-02 08:05:31,180 - root - INFO - Processing Combination...
+2024-12-02 08:05:31,180 - root - INFO - Finished processing Combination.
+2024-12-02 08:05:31,180 - root - INFO - clean up failed.
+2024-12-02 08:05:31,180 - root - INFO - Finished processing all ligands.
+2024-12-02 08:05:41,117 - root - INFO - ChaiRosettaScore started.
+2024-12-02 08:05:41,118 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 08:05:41,118 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 08:05:41,122 - root - INFO - clean up failed.
+2024-12-02 08:05:41,123 - root - INFO - Processing EK1...
+2024-12-02 08:05:41,123 - root - INFO - Processing EK1 with {'229E': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 08:08:13,253 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 476, in <module>
+    chai_rosetta_score(receptor_dict, ligand_name, ligand_sequence, receptor_chain_num = parameter["receptor_chain_num"], path = path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 441, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 338, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 321, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/pdb/*.pdb -no_optH false -ignore_unrecognized_res -out:file:scorefile /home/users/hcdai/AI-peptide/ChaiRosettaScore/output/EK1/229E/scores.sc -out:pdb' returned non-zero exit status 255.
+2024-12-02 08:10:16,185 - root - INFO - ChaiRosettaScore started.
+2024-12-02 08:10:16,186 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 08:10:16,186 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 08:10:16,196 - root - INFO - Cleaned up temp directory.
+2024-12-02 08:10:16,197 - root - INFO - Cleaned up run.py file.
+2024-12-02 08:10:16,198 - root - INFO - Processing EK1...
+2024-12-02 08:10:16,198 - root - INFO - Processing EK1 with {'229E': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 08:10:37,675 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 476, in <module>
+    chai_rosetta_score(receptor_dict, ligand_name, ligand_sequence, receptor_chain_num = parameter["receptor_chain_num"], path = path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 441, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 338, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 321, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/pdb/*.pdb -no_optH false -ignore_unrecognized_res -out:file:scorefile /home/users/hcdai/AI-peptide/ChaiRosettaScore/output/EK1/229E/scores.sc -out:pdb' returned non-zero exit status 255.
+2024-12-02 09:21:53,468 - root - INFO - ChaiRosettaScore started.
+2024-12-02 09:21:53,469 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/ligand', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/temp', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel'}, 'parameter': {'receptor_chain_num': 3}}
+2024-12-02 09:21:53,469 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore
+2024-12-02 09:21:53,479 - root - INFO - Cleaned up temp directory.
+2024-12-02 09:21:53,502 - root - INFO - Cleaned up run.py file.
+2024-12-02 09:21:53,504 - root - INFO - Processing EK1...
+2024-12-02 09:21:53,504 - root - INFO - Processing EK1 with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 09:26:05,054 - root - INFO - Finished processing EK1.
+2024-12-02 09:26:05,085 - root - INFO - Cleaned up temp directory.
+2024-12-02 09:26:05,086 - root - INFO - Cleaned up run.py file.
+2024-12-02 09:26:05,088 - root - INFO - Processing V1176Y...
+2024-12-02 09:26:05,088 - root - INFO - Processing V1176Y with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 09:28:21,148 - root - INFO - Finished processing V1176Y.
+2024-12-02 09:28:21,167 - root - INFO - Cleaned up temp directory.
+2024-12-02 09:28:21,168 - root - INFO - Cleaned up run.py file.
+2024-12-02 09:28:21,169 - root - INFO - Processing V1177L...
+2024-12-02 09:28:21,169 - root - INFO - Processing V1177L with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 09:30:32,595 - root - INFO - Finished processing V1177L.
+2024-12-02 09:30:32,609 - root - INFO - Cleaned up temp directory.
+2024-12-02 09:30:32,610 - root - INFO - Cleaned up run.py file.
+2024-12-02 09:30:32,610 - root - INFO - Processing N1178E...
+2024-12-02 09:30:32,611 - root - INFO - Processing N1178E with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 09:32:46,158 - root - INFO - Finished processing N1178E.
+2024-12-02 09:32:46,216 - root - INFO - Cleaned up temp directory.
+2024-12-02 09:32:46,217 - root - INFO - Cleaned up run.py file.
+2024-12-02 09:32:46,217 - root - INFO - Processing Q1180K...
+2024-12-02 09:32:46,217 - root - INFO - Processing Q1180K with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2024-12-02 09:33:45,866 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 476, in <module>
+    chai_rosetta_score(receptor_dict, ligand_name, ligand_sequence, receptor_chain_num = parameter["receptor_chain_num"], path = path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 441, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 338, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore/ChaiRosettaScore.py", line 321, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore/temp/pdb/*.pdb -no_optH false -ignore_unrecognized_res -out:file:scorefile /home/users/hcdai/AI-peptide/ChaiRosettaScore/output/Q1180K/229E_A_229E_B_229E_C/scores.sc -out:pdb' returned non-zero exit status 255.

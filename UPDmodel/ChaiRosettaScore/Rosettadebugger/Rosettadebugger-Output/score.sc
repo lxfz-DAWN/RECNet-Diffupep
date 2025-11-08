@@ -1,0 +1,3 @@
+SEQUENCE: 
+SCORE: total_score dslf_fa13    fa_atr    fa_dun   fa_elec fa_intra_rep fa_intra_sol_xover4              fa_rep              fa_sol hbond_bb_sc hbond_lr_bb    hbond_sc hbond_sr_bb linear_chainbreak lk_ball_wtd       omega overlap_chainbreak            p_aa_pp pro_close rama_prepro         ref yhh_planarity description 
+SCORE:    1359.220     6.072 -1699.788   512.831  -502.515        6.159              48.952            1987.517            1210.881      -2.137       0.000      -7.486    -248.196             0.000     -46.654      20.639              0.000            -11.502    13.955     -17.699      88.193         0.000 pred.model_idx_0_0001

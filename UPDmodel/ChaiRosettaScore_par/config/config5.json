@@ -1,0 +1,25 @@
+{
+    "path": {
+        "workspace": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par",
+        "chai-1": {
+            "ChaiRunPython": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh",
+            "home": "/home/users/hcdai/AI-peptide/Chai-1/chai-lab",
+            "chaiworkdir": "/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test",
+            "chai_python_executable": "/home/users/hcdai/miniconda3/envs/Chai-1/bin/python"
+        },
+        "rosetta": {
+            "score_executable": "/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease",
+            "InterfaceAnalyzer": "/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease",
+            "pack_input_options": "/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini"
+        },
+        "ligand_database": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand5",
+        "receptor_database": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor",
+        "temp": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp5",
+        "output": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output",
+        "obabel": "/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel", 
+        "output_csv": "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv"   
+    },
+    "parameter": {
+        "receptor_chain_num": 3
+    }
+}

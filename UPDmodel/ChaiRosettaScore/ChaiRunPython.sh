@@ -1,0 +1,1 @@
+/home/users/hcdai/miniconda3/envs/Chai-1/bin/python /home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test/run.py

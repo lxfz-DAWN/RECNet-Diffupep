@@ -1,0 +1,111 @@
+2025-01-06 04:38:32,993 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:38:32,994 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:38:32,995 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:39:48,772 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:39:48,772 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:39:48,773 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:39:48,780 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand3', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp3', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:39:48,780 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand2', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp2', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:39:48,780 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:39:48,780 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand1', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp1', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:39:48,780 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:39:48,781 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:39:48,788 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:39:48,788 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:39:48,789 - root - INFO - clean up failed.
+2025-01-06 04:39:48,789 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:39:48,789 - root - INFO - clean up failed.
+2025-01-06 04:39:48,790 - root - INFO - clean up failed.
+2025-01-06 04:39:48,790 - root - INFO - Processing V1176Y...
+2025-01-06 04:39:48,790 - root - INFO - Processing V1176Y with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:39:48,790 - root - INFO - Processing EK1-00000023...
+2025-01-06 04:39:48,791 - root - INFO - Processing EK1-00000023 with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:39:48,791 - root - INFO - Processing random_peptide_41_1-2025-01-04 13:39:45...
+2025-01-06 04:39:48,791 - root - INFO - Processing random_peptide_41_1-2025-01-04 13:39:45 with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:43:44,767 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 588, in <module>
+    score_output_dir = chai_rosetta_score(receptor_dict,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 452, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 349, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 331, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp2/pdb -no_optH false -ignore_unrecognized_res -out:pdb' returned non-zero exit status 255.
+2025-01-06 04:44:28,040 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 588, in <module>
+    score_output_dir = chai_rosetta_score(receptor_dict,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 452, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 349, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 331, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp1/pdb -no_optH false -ignore_unrecognized_res -out:pdb' returned non-zero exit status 255.
+2025-01-06 04:44:35,085 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 588, in <module>
+    score_output_dir = chai_rosetta_score(receptor_dict,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 452, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 349, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 331, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp3/pdb -no_optH false -ignore_unrecognized_res -out:pdb' returned non-zero exit status 255.
+2025-01-06 04:46:10,965 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:46:10,965 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:46:10,966 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand1', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp1', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:46:10,966 - root - INFO - ChaiRosettaScore started.
+2025-01-06 04:46:10,966 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand2', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp2', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:46:10,966 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:46:10,967 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:46:10,967 - root - INFO - Config file loaded: {'path': {'workspace': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par', 'chai-1': {'ChaiRunPython': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRunPython.sh', 'home': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab', 'chaiworkdir': '/home/users/hcdai/AI-peptide/Chai-1/chai-lab/RMSD_Time-test', 'chai_python_executable': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/python'}, 'rosetta': {'score_executable': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease', 'InterfaceAnalyzer': '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/InterfaceAnalyzer.static.linuxgccrelease', 'pack_input_options': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/setting_options.ini'}, 'ligand_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ligand/ligand3', 'receptor_database': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/receptor', 'temp': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp3', 'output': '/home/users/hcdai/AI-peptide/ChaiRosettaScore/output', 'obabel': '/home/users/hcdai/miniconda3/envs/Chai-1/bin/obabel', 'output_csv': '/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/output_result.csv'}, 'parameter': {'receptor_chain_num': 3}}
+2025-01-06 04:46:10,967 - root - INFO - Current working directory: /home/users/hcdai/AI-peptide/ChaiRosettaScore_par
+2025-01-06 04:46:10,975 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:46:10,975 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:46:10,976 - root - INFO - Current working directory: dict_keys(['PIV.fa', '229E.fa', 'MERS.fa', 'OC43.fa', 'NL63.fa', 'RSV.fa', 'SARS.fa', 'SARS2.fa'])
+2025-01-06 04:46:11,039 - root - INFO - Cleaned up temp directory.
+2025-01-06 04:46:11,040 - root - INFO - Cleaned up temp directory.
+2025-01-06 04:46:11,041 - root - INFO - Cleaned up run1.py file.
+2025-01-06 04:46:11,041 - root - INFO - Cleaned up temp directory.
+2025-01-06 04:46:11,041 - root - INFO - Cleaned up run3.py file.
+2025-01-06 04:46:11,042 - root - INFO - Cleaned up run2.py file.
+2025-01-06 04:46:11,042 - root - INFO - Processing EK1-00000023...
+2025-01-06 04:46:11,043 - root - INFO - Processing EK1-00000023 with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:46:11,043 - root - INFO - Processing random_peptide_41_1-2025-01-04 13:39:45...
+2025-01-06 04:46:11,043 - root - INFO - Processing random_peptide_41_1-2025-01-04 13:39:45 with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:46:11,043 - root - INFO - Processing V1176Y...
+2025-01-06 04:46:11,043 - root - INFO - Processing V1176Y with {'PIV_A': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_B': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG', 'PIV_C': 'DIEKLKEAIRDTNKAVQSVQSSIGNLIVAIKSVQDYVNKEIVPSIARLGCEAAGLQLGIALTQHYSELTNIFG'}...
+2025-01-06 04:50:16,681 - root - INFO - Processing V1176Y with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2025-01-06 04:50:45,668 - root - ERROR - Error occurred while processing ligand.
+Traceback (most recent call last):
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 588, in <module>
+    score_output_dir = chai_rosetta_score(receptor_dict,
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 452, in chai_rosetta_score
+    rosetta_score(pdb_path, score_output_dir, rosetta_path)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 349, in rosetta_score
+    run_command(score_command)
+  File "/home/users/hcdai/AI-peptide/ChaiRosettaScore_par/ChaiRosettaScore_par.py", line 331, in run_command
+    result = subprocess.run(command, shell=True, check=True, text=True, capture_output=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/users/hcdai/miniconda3/envs/Chai-1/lib/python3.11/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '/home/users/hcdai/AI-peptide/rosetta_interface_analysis/rosetta.binary.ubuntu.release-371/main/source/bin/score_jd2.static.linuxgccrelease -s /home/users/hcdai/AI-peptide/ChaiRosettaScore_par/temp/temp3/pdb/*.pdb -no_optH false -ignore_unrecognized_res -out:file:scorefile /home/users/hcdai/AI-peptide/ChaiRosettaScore/output/random_peptide_41_1-2025-01-04 13:39:45/PIV_A_PIV_B_PIV_C/scores.sc -out:pdb' returned non-zero exit status 255.
+2025-01-06 04:51:13,136 - root - INFO - Processing EK1-00000023 with {'229E_A': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_B': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI', '229E_C': 'DVLQENQKILAASFNKAMTNIVDAFTGVNDAITQTSQALQTVATALNKIQDVVNQQGNSLNHLTSQLRQNFQAISSSIQAIYDRLDTI'}...
+2025-01-06 07:57:30,911 - root - INFO - ChaiRosettaScore started.
